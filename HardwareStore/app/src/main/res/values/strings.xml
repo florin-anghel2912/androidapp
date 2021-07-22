@@ -1,0 +1,25 @@
+<resources>
+    <string name="delete">X</string>
+    <string name="finish">Buy</string>
+    <string name="buy">Quantity:</string>
+    <string name="button">Add to cart</string>
+    <string name="app_name">HardStore</string>
+    <string name="start">What do you want to buy?</string>
+    <string name="startQ">Items to buy</string>
+    <string name="action_settings">Shopping cart</string>
+    <string name="startC">What CPU: AMD or Intel?\n(For AVX512, buy Intel)</string>
+    <string name="startG">What GPU: AMD or nVidia?\n(For CUDA, buy nVidia)</string>
+    <string name="AMD_CPU">What AMD CPU to buy?</string>
+    <string name="INTEL_CPU">What Intel CPU to buy?</string>
+    <string name="AMD_GPU">What AMD GPU to buy?</string>
+    <string name="NVIDIA_GPU">What nVidia GPU to buy?</string>
+    <string name="CUSTOM_SEARCH">Your search results</string>
+    <string name="bought">Enter shipping information:</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_amd_cpu">AMD CPU</string>
+    <string name="nav_intel_cpu">Intel CPU</string>
+    <string name="nav_amd_gpu">AMD GPU</string>
+    <string name="nav_nvidia_gpu">nVidia GPU</string>
+    <string name="search">Search products</string>
+</resources>
